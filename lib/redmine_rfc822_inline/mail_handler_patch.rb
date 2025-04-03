@@ -1,4 +1,4 @@
-module RedmineRFC822Inline
+module RedmineRfc822Inline
   module MailHandlerPatch
     unloadable
 
